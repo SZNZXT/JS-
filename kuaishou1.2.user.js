@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         快手自动讲解助手1.2
-// @namespace    com.kwaixiaodian.zs.page.helper1111
+// @namespace    com.kwaixiaodian.zs.page.helper
 // @version      1.2
 // @description  在网页上自动发送话术，并判断是否正在讲解
 // @author       图南
 // @icon         https://static.neituixiaowangzi.com/company/2017/10-28/080930344531413631.png
 // @match        https://zs.kwaixiaodian.com/page/helper
 // @grant        none
+
 // ==/UserScript==
 
 (function () {
